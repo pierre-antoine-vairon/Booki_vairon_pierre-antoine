@@ -1,0 +1,13 @@
+Booki Illustrations url
+
+Accueil : https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-accueil-zGCanseVoUm0frZnmlPTHbtyCqASkZ.png
+
+Fullscreen: https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-screen-global-P9CAMCqGNrurYcRuZpKesNeTccK8Js.png
+
+Header:https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-header-8x88YTfWN3YPxkFn6WwzsfU9CI9knq.png
+
+Hébergements: https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-hebergement-yrBUQDhPI5RpBbKNkoDtlkIRE4r2WH.png
+
+Activités: https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-activite-O4J3BJG0ga3flQVggMRNE1St8aU0N9.png
+
+Footer: https://qxit4w7mi3ha9vno.public.blob.vercel-storage.com/booki-footer-niJCxgcjZ6eQJ3l9QIBkbXcBGzeg88.png
