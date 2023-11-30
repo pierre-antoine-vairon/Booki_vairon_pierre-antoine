@@ -1,0 +1,100 @@
+.bloc-page {
+    width: 100%;
+    margin: 0;
+}
+/* - Header - */
+header {
+  width: 100%;
+  padding: 0;
+}
+nav {
+  flex-direction: column;
+  margin-left: 0;
+}
+nav ul {
+  width: 100%;
+  padding: 0;
+}
+.topbar a {
+  width: 100%;
+  margin: 0;
+}
+nav li {
+  border-bottom: 2px solid #f2f2f2;
+}
+nav li:hover {
+  padding: 0;
+  border-top: none;
+  border-bottom: 2px solid #0065fc;
+  padding-bottom: 10px;
+}
+
+/* -.search-section - */
+.search-section {
+  margin: 15px;
+}
+.search-section h1 {
+  width: 90%;
+}
+.submit {
+  display: none;
+}
+.search-bar form {
+  min-width: 0;
+  width: 100%;
+}
+.search {
+  width: 70%;
+}
+.glass-button {
+  width: 15%;
+}
+.glass-button button {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  color: white;
+  background-color: #0065fc;
+  border: none;
+  font-size: 16px;
+  border-radius: 15px;
+  padding: 0;
+}
+/* Filtres */ 
+.filtre {
+  display: block;
+  margin-top: 30px;
+}
+.filtre-title p {
+  margin: 10px 0;
+}
+.filtre-link {
+  margin-left: 0;
+}
+.filtre-link a {
+  margin: 5px 0;
+}
+
+/* Section Hebergement Populaires */
+.section-hbg-pop {
+    flex-direction: column-reverse;
+}
+.section-pop {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 0;
+}
+.cardbloc-pop {
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.card-pop {
+    width: 45%;
+    margin: 10px;
+}
+.section-hbg {
+    width: 100%;
+    background-color: white;
+}
